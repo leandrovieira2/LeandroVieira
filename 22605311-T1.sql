@@ -1,0 +1,16 @@
+--a22605311
+--Leandro Vieira
+--TD2
+--9h30/11h30
+
+--1
+
+SELECT*FROM
+INFORMATION_SCHEMA.COLUMNS C;
+
+
+
+
+
+
+
